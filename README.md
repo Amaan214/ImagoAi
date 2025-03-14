@@ -26,15 +26,13 @@ jupyter notebook ml_task_for_intern.ipynb
 
 ## Repository Structure
 
-├── data/                    
+├── Dataset/                    
 │   ├── TASK-ML-INTERN.csv    
 
-├── notebooks/               
+├── Notebook/               
 │   ├── ML_task_for_intern.ipynb      
 
 ├── requirements.txt        
 
-├── report/           
-│   ├──ML_Rask_Report.ipynb
-
-├── README.md                
+├── Report/           
+│   ├──ML_Rask_Report.ipynb              
